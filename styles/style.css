@@ -39,8 +39,9 @@ nav{
     padding-left: 55px;
 }
 .button{
+    color: white;
     font-weight: bold;
-    background-color: #92CAE9;
+    background-color: #e4528f;
     border-radius: 5px;
     border: none;
     padding: 5px;
@@ -137,4 +138,10 @@ a{
     padding: 10px;
     letter-spacing: 10px;
    font-size: 15px;
+}
+
+
+/* ------------Resposive css--------- */
+@media(max-width:1280){
+
 }
